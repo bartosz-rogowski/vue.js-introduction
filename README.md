@@ -16,7 +16,14 @@ Ok, myślę, że można wyróżnić kilka punktów:
 
 ---
 
-## Przykład(y)
+## Przykłady
+
+### Przykład 1
+
+1. Utwórz katalog projektowy i przejdź do niego
+1. Wykonaj `npm init vue@latest` i wybierz nazwę projektu (*np. `example01`*) oraz odpowiednie opcje (*domyślnie możesz zostawić wszystkie opcje na `No`*)
+1. Przejdź do katalogu projektu (`example01`)
+1. Wykonaj `npm install`, a następnie `npm run dev`
 
 ***soon***
 
