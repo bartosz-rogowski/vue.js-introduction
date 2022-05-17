@@ -1,0 +1,218 @@
+[
+	{
+		"id": 1,
+		"name": "Taylor Swift",
+		"site": "https://www.taylorswift.com/",
+		"born": "1989-12-13",
+		"country": "USA",
+		"image": "https://lastfm.freetls.fastly.net/i/u/770x0/b84d90b4acd28c5ddef5efc20fa1756e.jpg",
+		"albums": [
+			{
+				"name": "Lover",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F960edcb36156c3aed9cb70ede250780a.1000x1000x1.jpg",
+				"songs": 18,
+				"released": "2019-08-23"
+			},
+			{
+				"name": "folklore",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F4a6a06f7e361703062b0db46d0e4ec36.1000x1000x1.png",
+				"songs": 17,
+				"released": "2020-07-24"
+			},
+			{	
+				"name": "evermore",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+				"songs": 17,
+				"released": "2020-12-11"
+			},
+			{
+				"name": "Fearless (Taylor's Version)",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2Fcb3e5556ace37f591ee4247fb36ba50b.1000x1000x1.jpg",
+				"songs": 26,
+				"released": "2021-04-09"
+			},
+			{
+				"name": "Red (Taylor's Version)",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F7809d535eef0145a98d1ef1d5fbe4391.1000x1000x1.jpg",
+				"songs": 30,
+				"released": "2021-11-12"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "sanah",
+		"site": "https://sanah.pl/",
+		"born": "1997-09-02",
+		"country": "Poland",
+		"image": "https://yt3.ggpht.com/X1XvF-TZ24ZmaLD4Ji6mSFEQ_SGNmYd-1N09eOvg0aRGYzLqSGChpDx1PHOD-oEJdaC9-8VK=s900-c-k-c0x00ffffff-no-rj",
+		"albums": [
+			{
+				"name": "Królowa Dram (FINAL EDITION)",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2Fc54516109f15aa2d493db536a603834f.1000x1000x1.jpg",
+				"songs": 26,
+				"released": "2020-11-06"
+			},
+			{
+				"name": "Irenka (FINAL EDITION)",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2Ff7aae8912cf44757dfbe7d99a9446a51.1000x1000x1.jpg",
+				"songs": 27,
+				"released": "2021-11-05"
+			},
+			{
+				"name": "Uczta",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F2da8e16d219e16b9ef14e2e481bbc3c7.1000x1000x1.jpg",
+				"songs": 11,
+				"released": "2022-04-15"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Dua Lipa",
+		"site": "https://www.dualipa.com/",
+		"born": "1995-08-22",
+		"country": "UK",
+		"image": "https://images.genius.com/dd37b530cf20f2ce699f91e02a476a8a.847x847x1.jpg",
+		"albums": [
+			{
+				"name": "Dua Lipa (Complete Edition)",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F15ffd5872bb6ba6710cd05a4cfbea09a.1000x1000x1.png",
+				"songs": 25,
+				"released": "2018-10-19"
+			},
+			{
+				"name": "Future Nostalgia",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2Fd2304429bd6b0f492325f1151bd21825.1000x1000x1.jpg",
+				"songs": 11,
+				"released": "2020-03-27"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "The Weeknd",
+		"site": "https://www.theweeknd.com/",
+		"born": "1990-02-16",
+		"country": "Canada",
+		"image": "https://images.genius.com/1bab7f9dbd1216febc16d73ae4da9bd0.1000x1000x1.jpg",
+		"albums": [
+			{
+				"name": "Kiss Land",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F04b8cdf90baa93da2cfa5aebe2b05b3c.640x640x1.jpg",
+				"songs": 10,
+				"released": "2013-09-10"
+			},
+			{
+				"name": "Beauty behind the Madness",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F7ca7587cc9411d4c2926a3b5c3f8539a.1000x1000x1.png",
+				"songs": 14,
+				"released": "2015-08-28"
+			},
+			{
+				"name": "Starboy",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F7aa3bebecdfc0a7f9140c479bcb52182.1000x1000x1.png",
+				"songs": 18,
+				"released": "2016-11-25"
+			},
+			{
+				"name": "After Hours",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F9d35a5dff10090e6c1d5e077932cea99.1000x1000x1.jpg",
+				"songs": 14,
+				"released": "2020-03-20"
+			},
+			{
+				"name": "Dawn FM",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2Ff15065ef66cd717c267d3f2e37313bc1.1000x1000x1.jpg",
+				"songs": 16,
+				"released": "2022-01-07"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Twenty One Pilots",
+		"site": "https://www.twentyonepilots.com/",
+		"born": "1988-12-01 (Tyler Joseph); 1988-06-18 (Joshua Dun)",
+		"country": "USA",
+		"image": "https://images.genius.com/0b3431e2a2d3b2e2591c5b3d27d6aba0.1000x1000x1.jpg",
+		"albums": [
+			{
+				"name": "Twenty One Pilots",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2Fba691d525870355c970027f3b0fecc61.600x600x1.jpg",
+				"songs": 14,
+				"released": "2009-12-29"
+			},
+			{
+				"name": "Regional at Best",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2Fad2b9088f41a26e6f1b1678b38dfc41c.1000x1000x1.jpg",
+				"songs": 14,
+				"released": "2011-07-08"
+			},
+			{
+				"name": "Vessel",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F6ef6be4c53c1fd9426b3885fee3da23f.1000x1000x1.jpg",
+				"songs": 11,
+				"released": "2013-01-08"
+			},
+			{
+				"name": "Blurryface",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F45652c8a4ce1fbb4e03b2d2b6158d605.1000x1000x1.jpg",
+				"songs": 14,
+				"released": "2015-05-17"
+			},
+			{
+				"name": "Trench",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2Fbcd18662ae9602983b7706b646797979.1000x1000x1.jpg",
+				"songs": 14,
+				"released": "2018-10-05"
+			},
+			{
+				"name": "Scaled and Icy",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F41e0d1bbc838b0ea401a6e8dc81e1a11.1000x1000x1.jpg",
+				"songs": 11,
+				"released": "2021-05-21"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Taco Hemingway",
+		"site": "https://tacohemingway.com/",
+		"born": "1990-07-29",
+		"country": "Poland",
+		"image": "https://yt3.ggpht.com/ytc/AKedOLT4dFVHaC1CSWQQL6fLtaFGwC68MDvIKG7oikvW=s900-c-k-c0x00ffffff-no-rj",
+		"albums": [
+			{
+				"name": "Marmur",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F19614278924f768db467c759ce261dae.960x960x1.jpg",
+				"songs": 17,
+				"released": "2016-11-02"
+			},
+			{
+				"name": "Cafe Belga",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F1185893ea22709d68f98d46dd92bbd6c.639x639x1.png",
+				"songs": 11,
+				"released": "2018-07-13"
+			},
+			{
+				"name": "Pocztówka z WWA, lato '19",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F685795d1ab440ba7a5afbfac3725cabc.1000x1000x1.jpg",
+				"songs": 11,
+				"released": "2019-07-23"
+			},
+			{
+				"name": "Jarmark",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F008fa0b2560b2ce33813063e42757336.1000x1000x1.jpg",
+				"songs": 13,
+				"released": "2020-08-28"
+			},
+			{
+				"name": "Europa",
+				"cover": "https://t2.genius.com/unsafe/808x0/https%3A%2F%2Fimages.genius.com%2F4418ef92fd026f741a651d2becf68eb8.1000x1000x1.jpg",
+				"songs": 14,
+				"released": "2020-09-04"
+			}
+		]
+	}				
+]
